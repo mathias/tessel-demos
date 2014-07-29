@@ -4,7 +4,7 @@ Some quick demos based on the [start.tessel.io](http://start.tessel.io/) documen
 
 ## Notable examples:
 
-* `sound_histogram.js`: Displays a histogram of sound levels, uses an adjusting feature scaling function to fit the number of stars shown in `console.log` to a reasonable range (0-40). See code for more details.
+* [`sound_histogram.js`](https://github.com/mathias/tessel-demos/blob/master/sound_histogram.js): Displays a histogram of sound levels, uses an adjusting feature scaling function to fit the number of stars shown in `console.log` to a reasonable range (0-40). See code for more details.
 
 ## License
 
